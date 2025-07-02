@@ -34,8 +34,7 @@ raiz
 │   └── rodape.php             # Rodapé HTML
 ├── assets/                    # Imagens, CSS, JS e fontes
 ├── Dockerfile                 # Imagem personalizada com Apache + PHP
-├── docker-compose.yml         # Orquestração com volume e porta
-└── .idea/                     # Configurações do IntelliJ (opcional)
+└── docker-compose.yml         # Orquestração com volume e porta
 ```
 
 ## Como Executar o Projeto com Docker
